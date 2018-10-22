@@ -2,4 +2,4 @@
 
 See her dance!
 
-![Fatty Dancer](fattydancer.png)
+![Fatty Dancer](Fattydancer.png)
